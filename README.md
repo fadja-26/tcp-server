@@ -26,12 +26,16 @@ Terminal 2:
 
 Server:
 [SERVER] Listening on port 5555...
+
 [SERVER] Client connected.
+
 [SERVER] Checksum OK.
+
 [SERVER] Decrypted message: Hello world!
 
 Client:
 [CLIENT] Connected to server.
+
 [CLIENT] ENcrypted message sent (13 bytes).
 
 ## Notes
