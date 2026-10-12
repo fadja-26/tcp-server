@@ -25,6 +25,7 @@ Terminal 2:
 ## Expected output 
 
 Server:
+
 [SERVER] Listening on port 5555...
 
 [SERVER] Client connected.
@@ -34,6 +35,7 @@ Server:
 [SERVER] Decrypted message: Hello world!
 
 Client:
+
 [CLIENT] Connected to server.
 
 [CLIENT] ENcrypted message sent (13 bytes).
