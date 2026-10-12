@@ -11,6 +11,7 @@ A small client-server project demonstrating low-level network programming in C o
 
 ## How to build 
 gcc -Wall -o server server.c
+
 gcc - Wall - client client.c
 
 # How to run
